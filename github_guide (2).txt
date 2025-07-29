@@ -1,0 +1,37 @@
+1. Launch GitHub.com website
+2. click on signup button
+3. provide email id, password
+4. enter unique username e.g. GitAutomation
+5. click on create account
+    ->  user will received verification code on email 
+6. enter the code received on mail.
+7. account created successfully.
+
+
+############################Create Repository #######
+
+1. click on create repository button.
+2. provide a repository name e.g. TestAutomation
+3. provide description
+4. select public or private repository option.
+5. select readme checkbox
+6. click on create repository button.
+7. repository created successfully
+
+
+################## Install git on local system ###########
+1.  download git client from this location
+    https://github.com/git-for-windows/git/releases/download/v2.50.1.windows.1/Git-2.50.1-64-bit.exe
+
+2.  Initiate the git installation using downloaded exe.
+3.  create a folder in C driver with name PythonAutomation
+4.  open folder PythonAutomation
+5.  right click inside the folder ->  click on show more option ->  click on open gitbash here option.
+6.  It will open git terminal.
+7.  Clone git repository locally.
+    ->  get repository url from GitHub server.
+    ->  run below command on local git terminal
+    ->  git clone https://github.com/Itishree2025/TestAutomation.git
+    ->  verify repository cloned successfully and it will create a repository folder local with same name as repository name.
+
+
